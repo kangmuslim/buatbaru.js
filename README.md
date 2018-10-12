@@ -1,0 +1,2 @@
+# buatbaru.js
+buatbaru
